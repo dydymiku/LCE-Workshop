@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T15:03:36.672Z",
+  "generated_at": "2026-04-06T15:05:36.926Z",
   "count": 1,
   "packages": [
     {
@@ -11,7 +11,7 @@
         "Texture",
         "DLC"
       ],
-      "thumbnail": "thumbnail.png",
+      "thumbnail": "thumbnail.jpg",
       "zips": {
         "texture.zip": "{DLCDir}"
       },
