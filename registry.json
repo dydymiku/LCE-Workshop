@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T20:33:04.763Z",
-  "count": 3,
+  "generated_at": "2026-04-06T20:40:43.263Z",
+  "count": 4,
   "packages": [
     {
       "id": "barebones",
@@ -45,6 +45,21 @@
       "thumbnail": "thumbnail.jpg",
       "zips": {
         "texture.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "tadc",
+      "name": "The Amazing Digital Circus",
+      "author": "silvaz",
+      "description": "A bunch of TADC skins taken from online ported to LCE. Credits shown in game.",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "tadc.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     }
