@@ -1,0 +1,12 @@
+{
+  "id": "touhou", // ID
+  "name": "Touhou SkinPack", // Name
+  "author": "spellboundstargazer",
+  "description": "A collection of Touhou skins based on characters that I like.", // Description
+  "category": ["Skin", "DLC"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "zips": { 
+     "AriTouhouSkins.zip": "{DLCDir}" // placeholders are handled by Emerald
+  },
+  "version": "1.0.0"
+}
