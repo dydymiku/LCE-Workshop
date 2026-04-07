@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T20:40:43.263Z",
-  "count": 4,
+  "generated_at": "2026-04-07T13:25:01.506Z",
+  "count": 5,
   "packages": [
     {
       "id": "barebones",
@@ -60,6 +60,21 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "tadc.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "touhou",
+      "name": "Touhou SkinPack",
+      "author": "spellboundstargazer",
+      "description": "A collection of Touhou skins based on characters that I like.",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "AriTouhouSkins.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     }
