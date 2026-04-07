@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T13:25:01.506Z",
-  "count": 5,
+  "generated_at": "2026-04-07T14:52:56.983Z",
+  "count": 6,
   "packages": [
     {
       "id": "barebones",
@@ -15,6 +15,21 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "mashup.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "blockspack",
+      "name": "Blocks Skin Pack",
+      "author": "silvas",
+      "description": "A bunch of blocks turned into skins lol",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "thumbnail.png",
+      "zips": {
+        "texture.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
