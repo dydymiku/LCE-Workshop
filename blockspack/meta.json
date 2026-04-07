@@ -1,0 +1,12 @@
+{
+  "id": "blockspack", // ID
+  "name": "Blocks Skin Pack", // Name
+  "author": "silvas",
+  "description": "A bunch of blocks turned into skins lol", // Description
+  "category": ["Skin", "DLC"], // Category
+  "thumbnail": "thumbnail.png", // Thumbnail filename
+  "zips": {
+    "texture.zip": "{DLCDir}" // placeholders are handled by Emerald
+  },
+  "version": "1.0.0"
+}
