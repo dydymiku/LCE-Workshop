@@ -6,7 +6,7 @@
   "category": ["Skin", "DLC"], // Category
   "thumbnail": "thumbnail.png", // Thumbnail filename
   "zips": {
-    "texture.zip": "{DLCDir}" // placeholders are handled by Emerald
+    "blockspack.zip": "{DLCDir}" // placeholders are handled by Emerald
   },
   "version": "1.0.0"
 }
