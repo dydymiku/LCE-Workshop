@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T14:53:38.045Z",
-  "count": 6,
+  "generated_at": "2026-04-10T18:23:43.270Z",
+  "count": 7,
   "packages": [
     {
       "id": "barebones",
@@ -30,6 +30,20 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "blockspack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "de-dust2",
+      "name": "Dust2",
+      "author": "funnyfella42",
+      "description": "Imagine you wanna play cs but your pc can only run LCE, well heres the hit cs map dust2, however it is missing the 71/71 russian servers you would find on cs source\n\nuh theres also chests for pvp ",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "dust2hd.jpg",
+      "zips": {
+        "Dust2.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
