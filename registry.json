@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T18:23:43.270Z",
+  "generated_at": "2026-04-10T18:27:36.931Z",
   "count": 7,
   "packages": [
     {
@@ -43,7 +43,7 @@
       ],
       "thumbnail": "dust2hd.jpg",
       "zips": {
-        "Dust2.zip": "{DLCDir}"
+        "Dust2.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
