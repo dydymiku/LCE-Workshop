@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:03:37.480Z",
-  "count": 10,
+  "generated_at": "2026-04-12T17:24:48.099Z",
+  "count": 11,
   "packages": [
     {
       "id": "barebones",
@@ -30,6 +30,20 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "blockspack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "cod4-shipment",
+      "name": "Shipment (COD4)",
+      "author": "funnyfella42",
+      "description": "Shipment from COD4",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "shipmentfunny.jpg",
+      "zips": {
+        "cod4shipment.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
