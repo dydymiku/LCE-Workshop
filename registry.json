@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T13:36:28.728Z",
+  "generated_at": "2026-04-14T13:36:57.144Z",
   "count": 13,
   "packages": [
     {
@@ -87,7 +87,7 @@
       ],
       "thumbnail": "Снимок экрана 2026-04-14 132017.png",
       "zips": {
-        "New HEDGECRAFT [Krabozaki] - LCE.zip": "{DLCDir}Game/Windows64Media/DLC"
+        "New HEDGECRAFT [Krabozaki] - LCE.zip": "{DLCDir}"
       },
       "version": "2.0.2"
     },
