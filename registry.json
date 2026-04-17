@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T10:19:06.713Z",
+  "generated_at": "2026-04-17T13:24:43.705Z",
   "count": 15,
   "packages": [
     {
@@ -7,6 +7,7 @@
       "name": "Barebones",
       "author": "mrduck",
       "description": "Bare Bones is a texture pack with the purpose of bringing your world and the default Minecraft textures to it's 'bare bones'. It is a simplistic and vibrant pack that is fun to use and makes your own Minecraft worlds look colourful!",
+      "extended_description": "",
       "category": [
         "Skin",
         "Texture",
@@ -23,6 +24,7 @@
       "name": "Blocks Skin Pack",
       "author": "silvas",
       "description": "A bunch of blocks turned into skins lol",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -38,6 +40,7 @@
       "name": "Shipment (COD4)",
       "author": "funnyfella42",
       "description": "Shipment from COD4",
+      "extended_description": "",
       "category": [
         "World"
       ],
@@ -52,6 +55,7 @@
       "name": "Dust2",
       "author": "funnyfella42",
       "description": "Imagine you wanna play cs but your pc can only run LCE, well heres the hit cs map dust2, however it is missing the 71/71 russian servers you would find on cs source\n\nuh theres also chests for pvp ",
+      "extended_description": "",
       "category": [
         "World"
       ],
@@ -66,6 +70,7 @@
       "name": "Faithful 64x",
       "author": "jakobisnow",
       "description": "Faithful recreates Minecraft's original textures in higher resolutions while staying true to their original look and feel. Ported to LCE.",
+      "extended_description": "",
       "category": [
         "Texture",
         "DLC"
@@ -81,6 +86,7 @@
       "name": "Five Night's at Freddy's Skin Pack",
       "author": "irv77",
       "description": "Nobledez original skin pack of Five Nights at Freddy's skins (fnaf 1- fnaf ucn)",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -96,6 +102,7 @@
       "name": "New HEDGECRAFT [Krabozaki]",
       "author": "LilasSonicBoi",
       "description": "you know, there's Hedge(city) here and they're pretending themselves in Minecraft. they're complete cubes, no doubt. you saw nothing, Lilac. oh, you're already online.",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -111,6 +118,7 @@
       "name": "Miku's Modules",
       "author": "dydymiku_",
       "description": "A 3D Hatsune Miku Skin Pack that's taking all the modules from the Project Diva/Project Sekai games, as well as the fan made Mikus!",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -126,6 +134,7 @@
       "name": "New-Legacy",
       "author": "cheapmanga",
       "description": "Minecraft LCE texturepack that brings the new textures of Minecraft java 1.21.11 to LCE",
+      "extended_description": "",
       "category": [
         "DLC",
         "Texture"
@@ -141,6 +150,7 @@
       "name": "SkyPack!",
       "author": "SKYHIVIN",
       "description": "An skinpack made by me!\nby SkyHeaven!\nan unemployed person. whom spent hours on this\nalso im SkyHeaven on the LCE discord too, if you have a skin or cape suggestoins, say it to me! i could add an custom skin and cape too!",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -156,6 +166,7 @@
       "name": "Sphax Purebdcraft NeoLegacy",
       "author": "ThePurpleDude",
       "description": "This is a version of Sphax Purebdcraft for the NeoLegacy version of the game I'll be updating this texture pack as the TU versions get updated",
+      "extended_description": "",
       "category": [
         "Texture",
         "DLC"
@@ -171,6 +182,7 @@
       "name": "Sphax Purebdcraft",
       "author": "ThePurpleDude",
       "description": "This is Sphax Purebdcraft for LCE TU 19 I have most of the the animated textures done working on the ui when I can and adding stuff that I find that it doesn't have yet.",
+      "extended_description": "",
       "category": [
         "Texture",
         "DLC"
@@ -186,6 +198,7 @@
       "name": "The Amazing Digital Circus",
       "author": "silvaz",
       "description": "A bunch of TADC skins taken from online ported to LCE. Credits shown in game.",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -201,6 +214,7 @@
       "name": "Touhou SkinPack",
       "author": "spellboundstargazer",
       "description": "A collection of Touhou skins based on characters that I like.",
+      "extended_description": "",
       "category": [
         "Skin",
         "DLC"
@@ -216,6 +230,7 @@
       "name": "Vintage LCE",
       "author": "ThePurpleDude",
       "description": "I helped port this for someone this is vintage texture pack I did as much as I could its only for TU 19 I'll probably make a newer version for neo legacy when I can",
+      "extended_description": "",
       "category": [
         "Texture",
         "DLC"
