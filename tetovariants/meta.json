@@ -1,0 +1,12 @@
+{
+  "id": "tetovariants", // ID
+  "name": "Teto Variants", // Name
+  "author": "dydymiku_", // Author
+  "description": "A 3D Kasane Teto Skin Pack that's taking all the differents variations of our sweet, lovely baguette lover!", // Description
+  "category": ["Skin", "DLC"], // Category
+  "thumbnail": "thumbnail.jpg", // Thumbnail filename
+  "zips": {
+    "texture.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
