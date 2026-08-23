@@ -1,0 +1,15 @@
+{
+  "id": "pcgamer",
+  "name": "PC Gamer Demo World",
+  "author": "Jared1930704",
+  "description": "The world in the PC Gamer demo",
+  "extended_description": "credits to PC Gamer and MrLordSith",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "c1e0927b91d4a7cfa3acda43a88fbe0e-650-80.jpg.webp",
+  "zips": {
+    "Demo.zip": "{DLCDir}"
+  },
+  "version": "1.0.0"
+}
