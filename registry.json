@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:53:57.228Z",
-  "count": 84,
+  "generated_at": "2026-08-24T20:54:41.472Z",
+  "count": 85,
   "packages": [
     {
       "id": "1-20-skin",
@@ -779,6 +779,21 @@
       "thumbnail": "banner.png",
       "zips": {
         "oCd_Texture_Pack.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "pcgamer",
+      "name": "PC Gamer Demo World",
+      "author": "Jared1930704",
+      "description": "The world in the PC Gamer demo",
+      "extended_description": "credits to PC Gamer and MrLordSith",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "c1e0927b91d4a7cfa3acda43a88fbe0e-650-80.jpg.webp",
+      "zips": {
+        "Demo.zip": "{GameHDD}"
       },
       "version": "1.0.0"
     },
