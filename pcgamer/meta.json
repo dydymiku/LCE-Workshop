@@ -9,7 +9,7 @@
   ],
   "thumbnail": "c1e0927b91d4a7cfa3acda43a88fbe0e-650-80.jpg.webp",
   "zips": {
-    "Demo.zip": "{DLCDir}"
+    "Demo.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
