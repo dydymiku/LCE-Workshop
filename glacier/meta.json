@@ -5,11 +5,11 @@
   "description": "The iconic pre beta 1.8 seed",
   "extended_description": "Ported from java ",
   "category": [
-    "Skin"
+    "World"
   ],
   "thumbnail": "glacier.webp",
   "zips": {
-    "glacier.zip": "{DLCDir}"
+    "glacier.zip": "{GameHDD}"
   },
   "version": "1.0.0"
 }
