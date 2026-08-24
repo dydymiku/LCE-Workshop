@@ -1,0 +1,15 @@
+{
+  "id": "glacier",
+  "name": "glacier",
+  "author": "Jared1930704",
+  "description": "The iconic pre beta 1.8 seed",
+  "extended_description": "Ported from java ",
+  "category": [
+    "World"
+  ],
+  "thumbnail": "glacier.webp",
+  "zips": {
+    "glacier.zip": "{GameHDD}"
+  },
+  "version": "1.0.0"
+}
