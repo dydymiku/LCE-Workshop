@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T20:54:41.472Z",
-  "count": 85,
+  "generated_at": "2026-08-26T18:30:47.052Z",
+  "count": 86,
   "packages": [
     {
       "id": "1-20-skin",
@@ -1330,6 +1330,21 @@
         "0000TU12Tutorial.zip": "{DLCDir}"
       },
       "version": "14.0.0"
+    },
+    {
+      "id": "tu7",
+      "name": "TU7 Tutorial World",
+      "author": "neoapps-dev",
+      "description": "The Minecraft Xbox 360 Edition TU7 Tutorial world. Converted to Windows64 via Emerald Launcher.",
+      "extended_description": "Credits to TheMinecraftArchitect for the Java world files and thumbnail!",
+      "category": [
+        "World"
+      ],
+      "thumbnail": "TU7 Image 3.png",
+      "zips": {
+        "TU7.zip": "{GameHDD}"
+      },
+      "version": "7.0.0"
     },
     {
       "id": "tu91splashes",
