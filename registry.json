@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-26T18:30:47.052Z",
-  "count": 86,
+  "generated_at": "2026-08-27T14:25:40.143Z",
+  "count": 87,
   "packages": [
     {
       "id": "1-20-skin",
@@ -1238,6 +1238,22 @@
       "thumbnail": "thumbnail.png",
       "zips": {
         "AriTouhouSkins.zip": "{DLCDir}"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "id": "trailerparkpack",
+      "name": "Trailer Park Boys Skin Pack",
+      "author": "LCEGuys",
+      "description": "The Trailer Park Boys Skin Pack\n",
+      "extended_description": "\"Look at him! thats a fuckin nice Skin Pack right there!\" - Bubbles.         \n           \n-Get attacked by bottle kids with the Trailer Park Boys Skin Pack and remember... Jim Lahey is a FUCKIN’ drunk, and he always will be.\n",
+      "category": [
+        "Skin",
+        "DLC"
+      ],
+      "thumbnail": "InShot_20260826_170416643.gif",
+      "zips": {
+        "Trailer Park Boys Skin Pack.zip": "{DLCDir}"
       },
       "version": "1.0.0"
     },
