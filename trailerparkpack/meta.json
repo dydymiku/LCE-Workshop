@@ -1,0 +1,23 @@
+{
+  "id": "trailerparkpack",
+  "name": "Trailer Park Boys Skin Pack",
+  "author": "LCEGuys",
+  "description": "The Trailer Park Boys Skin Pack\n",
+  "extended_description": "\"Look at him! thats a fuckin nice Skin Pack right there!\" - Bubbles.         \n           \n-Get attacked by bottle kids with the Trailer Park Boys Skin Pack and remember... Jim Lahey is a FUCKIN’ drunk, and he always will be.\n",
+  "category": [
+    "Skin"
+  ],
+  "thumbnail": "InShot_20260826_170416643.gif",
+  "zips": {
+    "Trailer Park Boys Skin Pack.zip": "{DLCDir}"
+  },
+  "version": "1.0.0",
+  "required_versions": [
+    "revelations",
+    "legacy_evolved",
+    "360revived",
+    "legacy_nether_fork",
+    "test",
+    "moon_edition"
+  ]
+}
